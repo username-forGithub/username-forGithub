@@ -1,7 +1,7 @@
 ### Languages:
 <div>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="./photos/HTML5.png" alt="HTML5"/>
+    <img src="https://user-images.githubusercontent.com/104260002/184068577-8dd88f07-3447-45a2-aa65-e5fff1bb9d70.png" alt="HTML5"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="./photos/CSS3.png" alt="CSS3"/>
