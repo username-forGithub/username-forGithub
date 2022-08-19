@@ -1,7 +1,7 @@
 
 - 🔭 I’m currently working on JavaScript Projects
 - 🌱 I’m currently learning Full-Stack web development at Microverse
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/baxtiyor-yusubaliev), [Twitter](https://twitter.com/@BaxtiyorDev ), [Gmail](harhil46gmail.com)
+- 📫 How to reach me: [Gmail](harhil46gmail.com)
 - 💡 I’m looking to collaborate on open source projects
 - 💬 Ask me about CSS (especially about responsiveness issues)
 - 😄 Pronouns: He/Him
