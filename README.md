@@ -13,6 +13,9 @@
 <div style="display: flex;">
 <!--   ![HTML5](https://img.icons8.com/color/2x/html-5.png) ![CSS3](https://img.icons8.com/color/2x/css3.png) ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)  -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
+  <img src="https://img.icons8.com/color/2x/html-5.png" alt="react" />
+  <img src="https://img.icons8.com/color/2x/css3.png" alt="react"/>
+  
 </div>
 
 
