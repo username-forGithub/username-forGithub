@@ -10,8 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=username-forGithub&style=flat-square)
 
 ## Languages, technologies, frameworks 💻
-<div style="display: flex; align-items: center;">
-<!--   ![HTML5](https://img.icons8.com/color/2x/html-5.png) ![CSS3](https://img.icons8.com/color/2x/css3.png) ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)  -->  
+<div style="display: flex; align-items: center;"> 
   <img style="width: 80px; height: 80px; object-fit: contain;" src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png"/>
   <img style="width: 80px; height: 80px; object-fit: contain;" src="https://img.icons8.com/?size=512&id=jD-fJzVguBmw&format=png"/>
   <img style="width: 80px; height: 80px; object-fit: contain;" src="https://img.icons8.com/?size=512&id=aMLZmDlq6SvC&format=png"/>
@@ -22,5 +21,7 @@
   <img style="width: 80px; height: 80px; object-fit: contain;" src="saas.png" />  
   <img style="width: 80px; height: 80px; object-fit: contain;" src="https://img.icons8.com/?size=512&id=xBKl2pdJg5kk&format=png" /> 
 </div>
+
+<img src="https://t.bkit.co/w_64b157ce9df42.gif" />
 
 
