@@ -10,5 +10,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 ## Languages 💻
-![HTML5](https://img.icons8.com/color/2x/html-5.png) ![CSS3](https://img.icons8.com/color/2x/css3.png) ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)
+![HTML5](https://img.icons8.com/color/2x/html-5.png) ![CSS3](https://img.icons8.com/color/2x/css3.png) ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png) ![ReactJS](https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png)  
 
