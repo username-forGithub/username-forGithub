@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like doing exercise during my leisure time. I am a martial art students
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=username-forGithub&style=flat-square)
 
 ## Languages, technologies, frameworks 💻
 <div style="display: flex; align-items: center;">
