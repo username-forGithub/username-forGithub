@@ -15,7 +15,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
   <img src="https://img.icons8.com/color/2x/html-5.png"  />
   <img src="https://img.icons8.com/color/2x/css3.png" />
-  <img src="https://img.icons8.com/color/2x/css3.png" />
   <img src="https://img.icons8.com/fluency/2x/javascript.png" "/>
 </div>
 
