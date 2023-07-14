@@ -10,10 +10,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 ## Languages 💻
-<div display=>
+
   ![HTML5](https://img.icons8.com/color/2x/html-5.png) ![CSS3](https://img.icons8.com/color/2x/css3.png) ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png) 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
-</div>
+
 
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
