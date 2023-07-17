@@ -22,6 +22,6 @@
   <img style="width: 80px; height: 80px; object-fit: contain;" src="https://img.icons8.com/?size=512&id=xBKl2pdJg5kk&format=png" /> 
 </div>
 
-<img src="https://t.bkit.co/w_64b157ce9df42.gif" />
+
 
 
