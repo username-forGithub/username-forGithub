@@ -1,5 +1,5 @@
 
-- 📫 How to reach me: [harhil46@gmail.com]()
+- 📫 How to reach me: [harhil46@gmail.com]
 - 💡 Drop a message: [@tel_me_on](https://t.me/tel_me_on)
 
 ![](https://komarev.com/ghpvc/?username=username-forGithub&style=flat-square)
