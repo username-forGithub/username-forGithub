@@ -1,11 +1,6 @@
 
-- 🔭 I’m currently working on JavaScript Projects
-- 🌱 I’m currently learning Full-Stack web development at Microverse
 - 📫 How to reach me: [harhil46gmail.com](harhil46gmail.com)
-- 💡 I’m looking to collaborate on open source projects
-- 💬 Ask me about CSS (especially about responsiveness issues)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like doing exercise during my leisure time. I am a martial art students
+- 💡 Drop a message @tel_me_on
 
 ![](https://komarev.com/ghpvc/?username=username-forGithub&style=flat-square)
 
